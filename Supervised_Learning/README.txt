@@ -1,6 +1,6 @@
 Supervised Learning - Assignment 1
 
-To get to where the code is, navigate to this link: https://github.com/davidcgong/ML_Coursework.
+To get to where the code is, navigate to this link: https://github.com/davidcgong/ML_Coursework/tree/master/Supervised_Learning.
 
 To run these algorithms, do the following steps. The only requirement is to have pip installed either through the Anaconda Prompt or on the Command Prompt
 
