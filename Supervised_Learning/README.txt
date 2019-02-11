@@ -5,8 +5,8 @@ To run these algorithms, do the following steps. The only requirement is to have
 1) Install requirements and type into command prompt: pip install -r requirements.txt
 2) Run any algorithm by typing in python {filename}.py into command prompt (preferred). Alternatively, use iPython in Spyder or Jupyter Notebook
 
-1) Decision Tree: python decision_tree.py
-2) Boosting: python boosting.py
-3) kNN: python knn.py
-4) NeuralNetwork: python neural_network.py
-5) Support Vector Machines: python svm.py
+  1. Decision Tree: python decision_tree.py
+  2. Boosting: python boosting.py
+  3. kNN: python knn.py
+  4. NeuralNetwork: python neural_network.py
+  5. Support Vector Machines: python svm.py
