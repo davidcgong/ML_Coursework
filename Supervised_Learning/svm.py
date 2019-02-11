@@ -1,22 +1,11 @@
-#Sheena Ganju, CS 4641 HW 1
-#Nueral network implementation using scikit learn,
-#help from http://www.kdnuggets.com/2016/10/beginners-guide-neural-networks-python-scikit-learn.html/2
-
-from sklearn.metrics import accuracy_score
-from sklearn import svm
-import csv
 import numpy as np
 import pandas as pd
 import time
 import matplotlib.pyplot as plt
-from sklearn.model_selection import learning_curve
+
+from sklearn.metrics import accuracy_score
+from sklearn import svm
 from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_predict
-from sklearn.model_selection import learning_curve
-from sklearn.model_selection import train_test_split
-#import scikitplot as skplt
-import matplotlib.pyplot as plt
-from sklearn.model_selection import validation_curve
 
 #read in data
 #Read data in using pandas
