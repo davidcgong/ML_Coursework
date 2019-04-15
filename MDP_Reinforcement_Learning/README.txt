@@ -1,4 +1,6 @@
-Markov Decision Processes - Project 4 ()
+Markov Decision Processes - Project 4 (https://github.com/davidcgong/ML_Coursework/tree/master/MDP_Reinforcement_Learning)
+
+The directory can be found at https://github.com/davidcgong/ML_Coursework/tree/master/MDP_Reinforcement_Learning.
 
 This assignment was done using the CMU reinforcement learning simulator, which can be accessed at https://www.cs.cmu.edu/~awm/rlsim/.
 
